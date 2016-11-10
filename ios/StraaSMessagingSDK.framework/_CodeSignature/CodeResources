@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/STSChatMessage.h</key>
 		<data>
-		AsQqpsLrOSJUYrcTRRqdeLpUZD4=
+		mKoXwWEOWpAwhe6PTvbxC4UKnpg=
 		</data>
 		<key>Headers/STSChatSticker.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/STSChatUser.h</key>
 		<data>
-		JSNAZI8oWZjE12jLLQbRhQHaPhY=
+		cgExmyAWfKZK/H/5Fq2a3DHHzS4=
 		</data>
 		<key>Headers/StraaSMessagingSDK.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		6ylJYlJX8bYmCNofVfBWZZHi5vw=
+		vT8cp8GiFn1P9ur/94L3rNj3mD0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,11 +98,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AsQqpsLrOSJUYrcTRRqdeLpUZD4=
+			mKoXwWEOWpAwhe6PTvbxC4UKnpg=
 			</data>
 			<key>hash2</key>
 			<data>
-			eSlppu/8HfSFk9SnjHDgOOpkcHuIIvPEIlOxHwkw+hU=
+			1BVPjOZSsBgfgU79rAAtGt67nyHrmm9494zeB4WG8Gc=
 			</data>
 		</dict>
 		<key>Headers/STSChatSticker.h</key>
@@ -120,11 +120,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JSNAZI8oWZjE12jLLQbRhQHaPhY=
+			cgExmyAWfKZK/H/5Fq2a3DHHzS4=
 			</data>
 			<key>hash2</key>
 			<data>
-			4h1WCMiZJPM5SqnM1AGxizBmOk5CnXu5XQorn5wCons=
+			93QBqmHvXVUcmyYkfIbrCPuh5pX6DXDoskdBMx+8TGA=
 			</data>
 		</dict>
 		<key>Headers/StraaSMessagingSDK.h</key>
@@ -194,6 +194,11 @@
 			<key>weight</key>
 			<real>1100</real>
 		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
 		<key>^version.plist$</key>
 		<true/>
 	</dict>
@@ -238,6 +243,11 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
 		</dict>
 		<key>^Info\.plist$</key>
 		<dict>
